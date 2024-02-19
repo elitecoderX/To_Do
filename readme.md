@@ -28,13 +28,13 @@ git clone https://github.com/elitecoderX/To_Do.git
 ```
 2. Navigate to the project directory
 ```bash
-cd sampleRestAPI
+cd To_Do
 ```
 3. Install the dependencies using pipenv
 ```bash
 pipenv install
 ```
-Congratulations, Now this API is ready to run on your local machine!
+Congratulations, Now this App ready to run on your local machine!
 
 ### Run App on your local machine
 ```bash
